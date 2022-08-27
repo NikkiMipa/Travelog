@@ -30,3 +30,8 @@ Church?
 Hot Cross Bun
 Shield
 Hand (MR)
+
+
+PHP:
+could I make an object for each chapter that includes all the pages in order and other info like
+the goblet and summary?
