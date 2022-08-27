@@ -4,7 +4,7 @@
   border-style : double;
   border-size : 10px;
   width : 10%;
-  background-image :url("leftborder.PNG");
+  background-image :url("leftborder.png");
   margin : -5px;
   min-width : 160px;
 }
@@ -14,13 +14,13 @@
   border-style : double;
   border-size : 10px;
   width : 10%;
-  background-image :url("rightborder.PNG");
+  background-image :url("rightborder.png");
   margin : -5px;
   min-width : 160px;
 }
 
 .topdiv {
-  background-image :url("topborder.PNG");
+  background-image :url("topborder.png");
   background-size : cover;
   border-style: none none solid none;
   border-color : #642A16;
